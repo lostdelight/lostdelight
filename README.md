@@ -7,7 +7,7 @@
 
 # LD
 
-- LostDelight (Alp-Aegispaces)
+- LostDelight
 - He/Him
 - Musician, proud Linux user
 - Binge listen Video Game Soundtracks
